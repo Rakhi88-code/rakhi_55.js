@@ -17,8 +17,13 @@
 // 2. External JS
 
 
-var name1="IQ INDIA FROM DELHI" 
+// var name1="IQ INDIA FROM DELHI" 
         // document.write(name1)
         // document.write("<hr>")
         // document.write("How are you")
-console.log(name1)
+// console.log(name1)
+
+var name1="IQ INDIA"
+document.write(name1)
+document.write("<hr>")
+document.write("how are you")
